@@ -5,7 +5,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-API-orange?logo=huggingface&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-Cyber Watchdog Agent is a **web-based cyber threat classifier** that helps detect and explain potentially harmful content such as **phishing, malware, spam, and credential harvesting attempts**.  
+### 🐺Cyber Watchdog Agent is a **web-based cyber threat classifier** that helps detect and explain potentially harmful content such as **phishing, malware, spam, and credential harvesting attempts**.  
 It leverages **Hugging Face Transformers** with the **facebook/bart-large-mnli** model for **zero-shot text classification**.  
 
 The project provides a sleek UI with **dark/light mode toggle**, a user friendly UI, and expandable technical details for advanced users.  
@@ -86,5 +86,5 @@ Hugging Face
 
 Inspiration from real-world cybersecurity monitoring agents.
 
-🐺 Cyber Watchdog Agent – Guarding your cyberspace, one text at a time.
+ 
 
